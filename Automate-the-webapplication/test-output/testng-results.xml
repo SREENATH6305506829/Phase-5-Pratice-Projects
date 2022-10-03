@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T17:27:09 IST" name="Suite" finished-at="2022-10-03T17:30:02 IST" duration-ms="172462">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T17:27:09 IST" name="Test" finished-at="2022-10-03T17:30:02 IST" duration-ms="172462">
+      <class name="com.testings.AutomateWebapplication">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.testings.AutomateWebapplication@28f3b248]" started-at="2022-10-03T17:27:09 IST" name="start" finished-at="2022-10-03T17:27:34 IST" duration-ms="24373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="signupform()[pri:1, instance:com.testings.AutomateWebapplication@28f3b248]" started-at="2022-10-03T17:27:34 IST" name="signupform" finished-at="2022-10-03T17:28:41 IST" duration-ms="67552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupform -->
+        <test-method signature="Login()[pri:2, instance:com.testings.AutomateWebapplication@28f3b248]" started-at="2022-10-03T17:28:41 IST" name="Login" finished-at="2022-10-03T17:29:13 IST" duration-ms="31911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="addToCart()[pri:3, instance:com.testings.AutomateWebapplication@28f3b248]" started-at="2022-10-03T17:29:13 IST" name="addToCart" finished-at="2022-10-03T17:30:02 IST" duration-ms="48544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- com.testings.AutomateWebapplication -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
